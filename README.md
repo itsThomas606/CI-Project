@@ -1,2 +1,2 @@
 # CI-Project
-Project code voor het vak Collectieve Intelligientie
+Project code voor het vak Collectieve Intelligentie
